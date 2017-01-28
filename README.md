@@ -69,3 +69,4 @@ Build a Shopping Cart component that:
 - [Components and Props](https://facebook.github.io/react/docs/components-and-props.html)
 - [Adding State to a Component](https://facebook.github.io/react/docs/state-and-lifecycle.html#adding-local-state-to-a-class)
 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+- [Building a calculator and "lifting state"](https://facebook.github.io/react/docs/lifting-state-up.html)
